@@ -2,10 +2,10 @@
 
 A simple guestbook using plain old PHP, MySQL, Bootstrap and jQuery. 
 
-I've created this a few years ago for teaching purposes.
-Please feel free to use it for your courses or to get familiar with web development.
+I've created this a few years ago for holding a course about web development.
+Please feel free to use it for learning or teaching purposes.
 
-Small note: The methodologies and technologies used in this guestbook are not anymore state-of-the-art.
+Small note: The methodologies and technologies used in this guestbook are not considered as state-of-the-art and partitially reflecting outdated standards. Though, for learning how to build a simple framework based web app it should be fine.
 
 ## Requirements
 
